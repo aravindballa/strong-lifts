@@ -6,4 +6,4 @@ Visualise workout progressions tracked using [strong app](https://www.strong.app
 - Export data from your Strong app
 - Upload the CSV to the website
 
-![demo](https://replit.com/@aravindballa/AshamedSmartLifts#public/demo.png)
+![demo](https://github.com/aravindballa/strong-lifts/blob/main/public/demo.png)
